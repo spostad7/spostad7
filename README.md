@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is SeYeD Sina and I'm an experienced front-end developer who loves to learn anything in front-end technologies, especially React.js.</p>
+<p align="left">My name is Seyed Sina and I'm an experienced front-end developer who loves to learn anything in front-end technologies, especially React.js.</p>
 
 ###
 
