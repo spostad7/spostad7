@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Seyed Sina and I'm an experienced front-end developer who loves to learn anything in front-end technologies, especially React.js.</p>
+<p align="left">My name is Marcel Wurst and I'm an experienced front-end developer who loves to learn anything in front-end technologies, especially React.js.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ As an experienced front-end developer with over 8 years of experience in Frontend development beside React/Next.js/TypeScript, I have a strong passion for creating beautiful and user-friendly websites. With a solid understanding of HTML, CSS, JavaScript, and other front-end technologies, I am always looking to expand my knowledge and stay up-to-date with the latest industry trends and practices. <br><br>📚 I'm currently learning GraphQL and like to learn React unit testing with jest.</p>
+<p align="left">✨ With over 8 years of experience in front-end development and a passion for creating beautiful and pixel-perfect websites, I am a skilled professional with expertise in HTML, CSS, JavaScript, React, Next.js and TypeScript. I am committed to delivering high-quality work and excited to consider new challenges to help organizations succeed in the digital realm. <br>📚 I'm currently learning GraphQL and like to learn React unit testing with jest.</p>
 
 ###
 
