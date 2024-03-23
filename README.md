@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ With over 8 years of experience in front-end development and a passion for creating beautiful and pixel-perfect websites, I am a skilled professional with expertise in HTML, CSS, JavaScript, React, Next.js and TypeScript. I am committed to delivering high-quality work and excited to consider new challenges to help organizations succeed in the digital realm. <br>📚 I'm currently learning GraphQL and like to learn React unit testing with jest.</p>
+<p align="left">✨ With over 8 years of experience in front-end development and a passion for creating beautiful and pixel-perfect websites, I am a skilled professional with expertise in HTML, CSS, JavaScript, React, Next.js and TypeScript. I am committed to delivering high-quality work and excited to consider new challenges to help organizations succeed in the digital realm.</p>
 
 ###
 
